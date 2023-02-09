@@ -13,15 +13,15 @@ goby.in is a mini-website, link-in-bio building platform for you and your busine
 - [ ] User / Customer Management
 
 <p><b>Business Tools</b></p>
-    - [ ] Invoice Maker
-    - [ ] Quotation Maker
-    - [ ] Price for Business
+   - [ ] Invoice Maker
+   - [ ] Quotation Maker
+   - [ ] Price for Business
 <p><b>Tools</b></p>
-    - [ ] URL Shortner
-    - [ ] QR Generator
+   - [ ] URL Shortner
+   - [ ] QR Generator
 <p><b>Marketplace</b></p>
-    - [ ] Buy Customized NFC Tags or Cards / Designed Cards From goby.in
-    - [ ] Buy Themes for Profile and Ecommerce
+   - [ ] Buy Customized NFC Tags or Cards / Designed Cards From goby.in
+   - [ ] Buy Themes for Profile and Ecommerce
 
  
 
