@@ -7,13 +7,22 @@ goby.in is a mini-website, link-in-bio building platform for you and your busine
 <!-- ROADMAP -->
 ## Features
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [ ] Link-in-bio
+- [ ] Create Store / Run a Ecommerce - Run your Business
+- [ ] Contact / Meeting Management
+- [ ] User / Customer Management
+- [ ] ## Business Tools
+    - [ ] Invoice Maker
+    - [ ] Quotation Maker
+    - [ ] Price for Business
+- [ ] ## Tools
+    - [ ] URL Shortner
+    - [ ] QR Generator
+- [ ] ## Marketplace
+    - [ ] Buy Customized NFC Tags or Cards / Designed Cards From goby.in
+    - [ ] Buy Themes for Profile and Ecommerce
+
+ 
 
 
 
