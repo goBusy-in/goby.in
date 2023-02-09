@@ -5,7 +5,7 @@
 goby.in is a mini-website, link-in-bio building platform for you and your business
 
 <!-- ROADMAP -->
-## Roadmap
+## Features
 
 - [x] Add Changelog
 - [x] Add back to top links
